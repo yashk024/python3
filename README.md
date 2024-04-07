@@ -7,3 +7,5 @@
 3. Matplotlib Library
 4. OOP
 5. Generators and Iterators
+6. File Handling
+7. OS module
