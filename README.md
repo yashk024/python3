@@ -8,4 +8,5 @@
 4. OOP
 5. Generators and Iterators
 6. File Handling
-7. OS module
+7. `os` module
+8. `datetime` module
